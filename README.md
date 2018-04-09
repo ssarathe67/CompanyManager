@@ -1,5 +1,5 @@
 # CompanyManager
-Sample Project developed using SpringMVC, MongoDB
+Sample Project developed using Angular4, SpringMVC, MongoDB
 ## Screen Shots
 Listing View
 ![listingview](https://user-images.githubusercontent.com/29681370/38480001-e32e57f4-3b90-11e8-90c0-7b7083b55000.PNG)
